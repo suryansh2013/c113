@@ -1,0 +1,20 @@
+body{
+    background: aquamarine;
+    text-align: center;
+}
+h3{
+    color: red;
+}
+label{
+    color: blue;
+}
+#camera{
+    border: 2px black solid;
+    width: 300;
+    height: 300;
+}
+#result{
+    border: 2px black solid;
+    width: 300;
+    height: 300;
+}
